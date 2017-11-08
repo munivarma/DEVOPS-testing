@@ -1,1 +1,1 @@
-print "Hellow Fuck"
+print "Hellow world"
